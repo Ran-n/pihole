@@ -1,4 +1,6 @@
 # Streaming legal
-netflix.com
+0.0.0.0 netflix.com
+
+
 # Streaming alegal
 playdede.com
