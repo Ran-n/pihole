@@ -1,5 +1,17 @@
 # Streaming legal
 netflix.com
+primevideo.com
+twitch.tv
+crunchyroll.com
+
+# youtube e clons
+youtube.com
+bittube.tv
+odysee.com
+bitchute.com
 
 # Streaming alegal
 playdede.com
+animeid.tv
+jkanime.net
+argenteam.net
