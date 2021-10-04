@@ -1,0 +1,9 @@
+# amazon
+amazon.com
+amazon.es
+
+# resto
+ebay.com
+aliexpress.com
+wallapop.com
+chollometro.com
