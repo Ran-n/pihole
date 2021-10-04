@@ -1,5 +1,6 @@
 # Streaming legal
 netflix.com
+(\.|^)netflix\.com$
 
 # Streaming alegal
 playdede.com
