@@ -1,5 +1,5 @@
 # Streaming legal
-0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
 
 
 # Streaming alegal
